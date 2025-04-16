@@ -22,7 +22,9 @@
 | 2025-04-05 | 1      | **Guest Talks at Swedish YH Schools – Azure, DevOps, Cloud Careers** | *(In-person / guest lectures)* | 🧓‍♂️ Multiple student cohorts  | Delivered sessions on Azure fundamentals, DevOps practices, and cloud career paths at EC Utbildning, Jensen, Handelsakademin, IT-Högskolan, and Campus Mölndal. Focused on “learning by doing” and real-world industry relevance. |
 | 2025-04-05 | 💁 Bonus | **Ongoing Mentorship for YH Students & Cloud Learners** | *(Ongoing)*  | 🎓 1-on-1s + community  | Provided mentorship to students across multiple YH schools and Discord. Topics included cloud careers, certification prep, hands-on project feedback, and job hunting in Azure/.NET. |
 | 2025-04-05 | 💁 Bonus | **Instructor Experience – Taught 2,000+ students in Azure, Dev, and Cloud** | *(Work-based)* | 🎓 2,000+ students trained | While not a direct MVP contribution, this long-term experience forms the foundation of community mentorship, teaching style, and public learning content on YouTube, GitHub, and Discord. |
-| 2025-04-05 | 💁 Bonus / 7 | **LinkedIn Community – “Azure & .NET for Swedish Devs”** | [linkedin.com/groups/10078328](https://www.linkedin.com/groups/10078328/)  | 👥 400+ members     | Community group focused on sharing Azure/.NET learning resources, public events, GitHub labs, and YouTube content. Supports Swedish learners and professionals. |
+| 2025-04-05 | 💁 Bonus / 7 | **LinkedIn Community – “Azure & .NET for Swedish Devs”** | [linkedin.com/groups/10078328](https://www.linkedin.com/groups/10078328/)  | 👥 400+ members     | Community group focused on sharing Azure/.NET learning resources, public events, GitHub labs, and YouTube content. Supports Swedish learners and professionals. | 
+| 2025-04-05 | 3      | **Twitch Channel – Live coding, tutorials, community Q&A** | [twitch.tv/kakashidota](https://www.twitch.tv/kakashidota) | 👥 3,100 followers                    | Live streams for cloud dev, coding sessions, and community engagement. Supports students and followers from Discord and YouTube. |
+
 
 ---
 
